@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<p align="left"> Olá, me chamo <strong>Maycon</strong> tenho 19 anos e sou <strong>Programador Front-end</strong> na (MOVA.vc)[https://mova.vc]</p>
+<p align="left"> Olá, me chamo <strong>Maycon</strong> tenho 19 anos e sou <strong>Programador Front-end</strong> na [MOVA.vc](https://mova.vc)</p>
 
 <p align="left">
   🦄 Linguagens: HTML5, CSS3, Javascript, Typescript
