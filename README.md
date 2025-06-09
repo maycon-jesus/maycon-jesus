@@ -24,7 +24,7 @@ I'm passionate about building impactful solutions and continuously learning new 
 
 ## 📈 GitHub Stats
 
-![Maycon's GitHub stats](https://github-readme-stats.vercel.app/api?username=maycon-jesus&show_icons=true&theme=radical)
+![Maycon's GitHub stats](https://github-readme-stats.vercel.app/api?username=maycon-jesus&show_icons=true&theme=aura)
 
 ---
 
