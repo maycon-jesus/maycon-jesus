@@ -1,26 +1,38 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+# 👋 Hi, I'm Maycon Jesus!
 
-<p align="left"> Olá, me chamo <strong>Maycon</strong> tenho 19 anos e sou <strong>Programador Front-end</strong> na <a href="https://mova.vc">MOVA SEP</a></p>
+Welcome to my GitHub profile!  
+I'm passionate about building impactful solutions and continuously learning new technologies.
 
-<p align="left">
-  🦄 Linguagens: HTML5, CSS3, Javascript, Typescript
-</p>
+---
 
-<p align="left">
-  💼 Ferramentas: Visual Studio Code, Postman,
-</p>
+## 🚀 About Me
 
-<p align="left">
-  💌 Deseja falar comigo? Entre em contato através dos links abaixo: ⤵️
-</p>
+- 🧑‍💻 **Profession:** Front-end Developer & E2E QA
+- 🌱 Always learning and experimenting with new tools and frameworks.
+- 💡 Thrive on solving complex problems and collaborating with others.
+- 🛠️ Enjoy contributing to open source and sharing knowledge.
 
-<p align="left">
-  <a href="mailto:email@mayconjesus.dev" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
+---
 
-  <a href="https://www.linkedin.com/in/maycon-jesus-20b3a6216/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+## 🛠️ Top Skills
 
-  <a href="https://api.whatsapp.com/send?phone=5531997466833" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-</p>  
+- **Languages:** JavaScript, TypeScript, Golang, HTML, CSS
+- **Frameworks:** Vue.js
+- **Expertise:** Front-end development, End-to-End (E2E) QA automation
+
+---
+
+## 📈 GitHub Stats
+
+![Maycon's GitHub stats](https://github-readme-stats.vercel.app/api?username=maycon-jesus&show_icons=true&theme=radical)
+
+---
+
+## ✨ Let's Connect!
+
+- 💬 Reach out for collaboration or just to say hi!
+- 🌐 Add your social links and portfolio here.
+
+---
+
+_Thanks for stopping by!_ 👋
