@@ -25,6 +25,7 @@ I'm passionate about building impactful solutions and continuously learning new 
 ## 📈 GitHub Stats
 
 ![Maycon's GitHub stats](https://github-readme-stats.vercel.app/api?username=maycon-jesus&show_icons=true&theme=aura)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maycon-jesus)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
