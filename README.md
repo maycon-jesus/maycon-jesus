@@ -1,39 +1,91 @@
-# 👋 Hi, I'm Maycon Jesus!
+<h1 align="center">🇧🇷 Hey! I'm Maycon</h1>
 
-Welcome to my GitHub profile!  
-I'm passionate about building impactful solutions and continuously learning new technologies.
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=💻+I'm+a+Software+Developer+💻;🧑‍💻+on+my+way+to+become+a+Problem+Solver+🧑‍💻" />
+</h3>
 
----
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif">
 
-## 🚀 About Me
+- 🔭 I’m currently working on [MOVA](https://mova.vc/)
 
-- 🧑‍💻 **Profession:** Front-end Developer & E2E QA
-- 🌱 Always learning and experimenting with new tools and frameworks.
-- 💡 Thrive on solving complex problems and collaborating with others.
-- 🛠️ Enjoy contributing to open source and sharing knowledge.
+- 🌱 I’m currently learning **Golang**
 
----
+- 🤝 I’m looking for help with **any projects**
 
-## 🛠️ Top Skills
+- 📫 How to reach me **contato@mayconjesus.dev**
 
-- **Languages:** JavaScript, TypeScript, Golang, HTML, CSS
-- **Frameworks:** Vue.js
-- **Expertise:** Front-end development, End-to-End (E2E) QA automation
+- 📄 Know about my experiences [mayconjesus.dev](https://mayconjesus.dev)
 
----
+- 🌍 Brazil, Minas Gerais
 
-## 📈 GitHub Stats
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=u-l-m-s&label=Profile%20views&color=0e75b6&style=flat" alt="u-l-m-s" /> </p>
 
-![Maycon's GitHub stats](https://github-readme-stats.vercel.app/api?username=maycon-jesus&show_icons=true&theme=aura)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maycon-jesus)(https://github.com/anuraghazra/github-readme-stats?theme=aura)
+<p align="left">
+</p>
 
----
+<h2 align="left">💻 Programming/Markup Languages 💻</h2>
 
-## ✨ Let's Connect!
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,c,cpp,cs,java,html,css,py,js,php,mysql,perl,md&theme=dark" />
+  </a>
+</p>
 
-- 💬 Reach out for collaboration or just to say hi!
-- 🌐 Add your social links and portfolio here.
+<h2 align="left">🧰 Tools/Frameworks 🧰</h2>
 
----
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git,dotnet,bootstrap,docker,vim,neovim,vscode,django,linux,nodejs,postman,obsidian&theme=dark" />
+  </a>
+</p>
 
-_Thanks for stopping by!_ 👋
+ <h2>🐧 OS/Distros 🐧 </h2>
+
+<p>
+  <img alt="Fedora"
+    src="https://img.shields.io/badge/Fedora-0078D6?style=for-the-badge&logo=fedora&logoColor=white"/>
+  <img alt="Ubuntu"
+    src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu" />
+  <img alt="Pop OS"
+    src="https://img.shields.io/badge/PopOs-49B3BF?style=for-the-badge&logo=popos&logoColor=white"/>
+  <img alt="Windows 11"
+    src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
+
+<h2>💉 Pentesting stats 💉</h2>
+
+<div align="left">
+  <a href="https://app.hackthebox.com/profile/1621662">
+    <img src="http://www.hackthebox.eu/badge/image/1621662" height="100" alt="Hack The Box TheTorva">
+  </a>
+  <a href="https://tryhackme.com/p/TorvaMessor">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/TorvaMessor.png" height="100" alt="TryHackMe">
+  </a>
+</div>
+
+<h2 align="left">⚡ Coding Stats ⚡</h2>
+
+<br>
+<div align=center>
+  <img width=410 src="https://streak-stats.demolab.com/?user=u-l-m-s&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=u-l-m-s&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=u-l-m-s&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=400 src="https://leetcard.jacoblin.cool/u-l-m-s?theme=nord&font=Anek%20Bangla&ext=heatmap&border_radius=10" alt="LeetCard" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<h2 align="left">✍️ Dev Quote ✍️</h2>
+
+<div align=center>
+  <img width=700 src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'/>
+</div>
+
+<br/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;I'm+always+down+to+collab😁">
+</h3>
