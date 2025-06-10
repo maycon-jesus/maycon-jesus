@@ -45,23 +45,12 @@
   <img alt="Fedora"
     src="https://img.shields.io/badge/Fedora-0078D6?style=for-the-badge&logo=fedora&logoColor=white"/>
   <img alt="Ubuntu"
-    src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu" />
+    src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" />
   <img alt="Pop OS"
     src="https://img.shields.io/badge/PopOs-49B3BF?style=for-the-badge&logo=popos&logoColor=white"/>
   <img alt="Windows 11"
     src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
-
-<h2>💉 Pentesting stats 💉</h2>
-
-<div align="left">
-  <a href="https://app.hackthebox.com/profile/1621662">
-    <img src="http://www.hackthebox.eu/badge/image/1621662" height="100" alt="Hack The Box TheTorva">
-  </a>
-  <a href="https://tryhackme.com/p/TorvaMessor">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/TorvaMessor.png" height="100" alt="TryHackMe">
-  </a>
-</div>
 
 <h2 align="left">⚡ Coding Stats ⚡</h2>
 
