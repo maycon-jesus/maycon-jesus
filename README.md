@@ -75,8 +75,6 @@
 
 <br/>
 
-<hr/>
-
 <h2 align="left">Currently listening 🎶</h2>
 
 <div align=center>
