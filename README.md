@@ -75,6 +75,16 @@
 
 <br/>
 
+<hr/>
+
+<h2 align="left">Currently listening 🎶</h2>
+
+<div align=center>
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=qf60wliqsvywlopjna8wmx5uh&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+</div>
+
+<br/>
+
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;I'm+always+down+to+collab😁">
 </h3>
